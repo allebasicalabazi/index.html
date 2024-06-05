@@ -1,1 +1,1 @@
-# index.html
+# proyecto-adivina-el-número
